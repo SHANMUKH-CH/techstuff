@@ -1,4 +1,4 @@
-#LAMP (Linux + Apache + MySQL + PHP)
+# LAMP (Linux + Apache + MySQL + PHP)
 A plethora of Open Source applications written using the LAMP application stack
 ### 1. Linux installation
 After installing [Linux](https://www.wikihow.com/Install-Linux) run
