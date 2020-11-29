@@ -1,4 +1,4 @@
-#Open CMD as admin
+# Open CMD as admin
 ```
 netsh winsock reset
 ```
@@ -14,3 +14,4 @@ ipconfig /flushdns
 ```
 reboot
 ```
+# ping www.google.com
