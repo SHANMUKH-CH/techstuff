@@ -1,8 +1,7 @@
 #LAMP (Linux + Apache + MySQL + PHP)
 A plethora of Open Source applications written using the LAMP application stack
 ### 1. Linux installation
-[a link](https://www.wikihow.com/Install-Linux)
-After installing run
+After installing [Linux](https://www.wikihow.com/Install-Linux) run
 ```
 $sudo apt-get update
 ```
@@ -27,7 +26,7 @@ Restart server
 $sudo service apache2 restart
 ```
 Check Apache working or not by navigating to
-[a link](http://localhost/.)
+[LocalHost](http://localhost/.) &
 Check PHP
 ```
 $php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
