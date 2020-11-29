@@ -14,7 +14,7 @@ f - full control
 ```
 icacls cygwin64 /t /grant everyone:f
 ```
-### rmdir
+### rmdir command
 removing the complete cygwin64 folder, subfolder and its files
 /s - to delete a dir tree
 /q -Specifies quiet mode. Does not prompt for confirmation when deleting a directory tree. 
