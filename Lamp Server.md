@@ -27,7 +27,7 @@ $sudo service apache2 restart
 ```
 Check Apache working or not by navigating to
 [LocalHost](http://localhost/.) &
-Check PHP
+Check PHP in terminal
 ```
 $php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
 ```
