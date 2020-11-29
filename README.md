@@ -1,2 +1,2 @@
 # Techstuff
-Very useful if youre an IT guy!
+Very useful if you`re an IT guy!
