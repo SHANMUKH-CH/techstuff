@@ -1,2 +1,2 @@
-# techstuff
-uninstalling git from ubuntu
+# Techstuff
+Very useful if youre an IT guy!
